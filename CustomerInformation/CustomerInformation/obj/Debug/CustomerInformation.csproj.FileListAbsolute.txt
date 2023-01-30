@@ -1,0 +1,6 @@
+C:\Users\zororo.zaranyika\Documents\Visual Studio 2017\Projects\CustomerInformation\CustomerInformation\bin\Debug\CustomerInformation.exe.config
+C:\Users\zororo.zaranyika\Documents\Visual Studio 2017\Projects\CustomerInformation\CustomerInformation\bin\Debug\CustomerInformation.exe
+C:\Users\zororo.zaranyika\Documents\Visual Studio 2017\Projects\CustomerInformation\CustomerInformation\bin\Debug\CustomerInformation.pdb
+C:\Users\zororo.zaranyika\Documents\Visual Studio 2017\Projects\CustomerInformation\CustomerInformation\obj\Debug\CustomerInformation.csproj.CoreCompileInputs.cache
+C:\Users\zororo.zaranyika\Documents\Visual Studio 2017\Projects\CustomerInformation\CustomerInformation\obj\Debug\CustomerInformation.exe
+C:\Users\zororo.zaranyika\Documents\Visual Studio 2017\Projects\CustomerInformation\CustomerInformation\obj\Debug\CustomerInformation.pdb
